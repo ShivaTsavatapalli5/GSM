@@ -1,4 +1,4 @@
-# GSM Communication for Person Detection Alerts
+# GSM Communication for  Alerts
 
 ## Overview
 This section outlines the GSM communication system used to send alerts . The GSM 900A MINI module enables the transmission of SMS messages containing messages to individuals, facilitating quick responses in critical situations.
